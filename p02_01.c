@@ -23,7 +23,7 @@ int main() {
 
     int beratButet = 0;
     int beratUcok = 0;
-    int totalBerat = 0;
+    int totalBerat = 0; 
 
     int totalOngkir = 0;
     int i;

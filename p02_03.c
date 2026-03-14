@@ -14,7 +14,7 @@ struct Menu {
 
 // Struktur Pesanan
 struct Order {
-    int idMenu;
+    int idMenu; 
     char namaMenu[50];
     int jumlah;
     float subtotal;

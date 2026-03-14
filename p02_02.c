@@ -15,7 +15,7 @@ int main() {
     printf("Masukkan jumlah data barang : ");
     scanf("%d", &N);
     
-    // input stok dan nama barang
+    // input stok dan nama barang 
     for(int i = 0; i < N; i++) {
         printf("\nData barang ke-%d\n", i+1);
         
